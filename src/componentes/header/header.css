@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #d95f52;
+  border-radius: 100px;
+  height: 40px;
+  width: 100px;
+  border: none;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.containerNav {
+  display: flex;
+  align-items: center;
+  gap: 300px;
+}
+a:hover {
+  color: #d95f52;
+}

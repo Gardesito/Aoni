@@ -1,0 +1,35 @@
+.containerHero {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+h1 {
+  color: #fff;
+  font-family: Poppins;
+  margin-top: 280px;
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.imgHero {
+  width: 900px;
+  padding-left: 30px;
+}
+
+.containerText {
+  padding-left: 190px;
+}
+
+.btnHero {
+  background-color: #d95f52;
+  border-radius: 100px;
+  height: 75px;
+  width: 200px;
+  border: none;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 20px;
+}
